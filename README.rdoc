@@ -1,6 +1,6 @@
 = Pushr Notifiers
 
-Additional notifiers for Pushr (http://github.com/karmi/pushr/tree/master) for Capistrano.
+Additional notifiers for Pushr (http://github.com/karmi/pushr/tree/master) for Capistrano (http://www.capify.org/)
 
 Currently available are:
 
