@@ -2,7 +2,7 @@ require 'rubygems'
 require 'shout-bot' # $ sudo gem install sr-shout-bot --source=http://gems.github.com
 
 # = IRC notifications for Pushr (http://github.com/karmi/pushr/)
-class Irc < Pushr::Notifier::Base
+class Pushr::Notifier::Irc < Pushr::Notifier::Base
 
   def deliver!(notification)
     return unless configured?
