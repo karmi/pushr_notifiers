@@ -1,0 +1,20 @@
+= Pushr Notifiers
+
+Additional notifiers for Pushr (http://github.com/karmi/pushr/tree/master) for Capistrano.
+
+Currently available are:
+
+* IRC
+* Jabber/XMPP
+
+
+== Installation
+
+    $ cd /your/pushr/installation/../
+    $ git clone git://github.com/karmi/pushr_notifiers.git
+
+Edit the proper lines in Pushr's <tt>config.yml</tt>. Done.
+
+== What is Pushr?
+
+This: http://www.restafari.org/pushr-or-the-application-will-deploy-itself.html
